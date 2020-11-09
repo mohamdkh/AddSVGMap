@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AddsvgMap"
+    }
+  },
+  "defaultProject": "AddsvgMap",
+  "cli": {
+    "analytics": "2df9485a-6a61-4c0f-a76e-c01b30e713da"
+  }
 }
